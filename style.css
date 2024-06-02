@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #1864d6;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-size: 1.8rem;
+    text-align: center;
+    margin: 59px;
+}
+
+
+.logo a{
+    color: #fff;
+    text-decoration: none;
+}
